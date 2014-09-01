@@ -1,7 +1,7 @@
 
 This is an [Alfred] workflow designed to toggle Dropbox Sync for the latest version of Dropbox (v 2.1+). It uses cliclick (a Mac command line tool for controling GUI elements).
 
-<img src="http://d.pr/i/i3lc+" alt="Dropbox GUI Sync Toggle for Alfred" style="width:312px;height:282px">
+<img src="http://d.pr/i/i3lc+" alt="Dropbox GUI Sync Toggle for Alfred" width="312">
 
 Credit goes to [Giangvo] for the original implemenation. Modified to work with Dropbox's latest GUI.
 
